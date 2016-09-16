@@ -1,0 +1,9 @@
+@import "reset.css";
+@font-face{
+  font-family: ubuntu;
+  	src: url("ubuntu.ttf");
+}
+
+/*main*/
+
+html * {max-height:1000000px;font-family: ubuntu;}
